@@ -2,7 +2,7 @@
 <html lang="en">
     
 <head>
-    <script type="text/javascript" src="./asz01.js">
+    <script type="text/javascript" src="./asz01.js"></script>
         
     <meta charset="UTF-8">
     <title>天帆网络科技工作室官网</title>
