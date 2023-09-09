@@ -8,7 +8,7 @@
     </script>
     <meta charset="UTF-8">
     <title>天帆网络科技工作室官网</title>
-    <link rel="icon" href="logo.ico" type="image/x-icon">
+    <link rel="icon" href="./logo.ico" type="image/x-icon">
     
     <font color="red">
      
@@ -166,8 +166,7 @@
 </p>
 
 <div class="container">
-    <!--<a href="#" class="btn"  id="btn">直接生成</a>-->
-    <!--<a href="#" class="btn" target="_blank">个人主页</a>-->
+   
 </div>
 
 
