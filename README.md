@@ -165,10 +165,6 @@
 
 </p>
 
-<div class="container">
-    <!--<a href="#" class="btn"  id="btn">直接生成</a>-->
-    <!--<a href="#" class="btn" target="_blank">个人主页</a>-->
-</div>
 
 
 </body>
