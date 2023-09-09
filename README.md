@@ -6,12 +6,12 @@
         // window.alert("Test");
     </script>
     <meta charset="UTF-8">
-    <title>天帆网络科技工作室官网</title>
+    <title>天帆云网络科技工作室官网</title>
     <link rel="icon" href="logo.ico" type="image/x-icon">
     
     <font color="red">
      
-    <marquee bgcolor="#006699">公告:本站系统正在进行全面升级...</marquee>
+    <marquee bgcolor="#006699">公告:本站系统正在进行全面升级... QQ计算机技术交流群：808537055</marquee>
     
     </font>
      
@@ -117,7 +117,7 @@
 </head>
 <body>
 <div class="header">
-    <h1 class="tit" style="text-shadow: 0 0 20px #2abac2;">天帆网络工作室</h1>
+    <h1 class="tit" style="text-shadow: 0 0 20px #2abac2;">天帆云网络科技工作室官网</h1>
     <img src="./logo.png" class="logo" alt="">
 <div>
     
