@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html lang="en">
     
 <head>
-    <script type="text/javascript" src="./tfcloudsys/assets/js/fyxt_term/asz01.js">
+    <script type="text/javascript" src="./asz01.js">
         // 这里写的代码不会执行，执行的是js01文件
         // window.alert("Test");
     </script>
@@ -127,6 +126,7 @@
 
     <p style="font-family: 方正仿宋简体;font-size: 20px;text-shadow: 0 0 10px rgb(0, 115, 255);">欢迎大家共同讨论学术技术研究方面的问题和投放及共享各类【IT资源】，以及欢迎各路萌新和大神加入我们安防团队为我们打造强悍的技术，且此工作室也提供多样各式的网络攻防零基础学习环境与软件工程资源，致力于网络安全和技术研究。组织成立于2020年,现有7名核心成员。</p>
 </div>
+<h3>QQ网络研究工作室：984116706</h3>
 <div class="members">
     <div class="member">
         <h3>软件破解-冰风</h3>
@@ -170,19 +170,12 @@
     <!--<a href="#" class="btn" target="_blank">个人主页</a>-->
 </div>
 
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
 
 
 <div class="zdy">
  © Powered by <a href="tfcloudsys/index.html" target="_blank">天帆云</a>
 </div>
 <br></br>
-<a href="tfcloudsys/index.html"></a>
 
 </body>
 <!--<script async="" type="text/javascript">
