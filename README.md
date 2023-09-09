@@ -6,12 +6,12 @@
         // window.alert("Test");
     </script>
     <meta charset="UTF-8">
-    <title>天帆云网络科技工作室官网</title>
+    <title>🌐 天帆云网络科技工作室官网</title>
     <link rel="icon" href="logo.ico" type="image/x-icon">
     
     <font color="red">
      
-    <marquee bgcolor="#006699">公告:本站系统正在进行全面升级... QQ计算机技术交流群：808537055</marquee>
+    <marquee bgcolor="#006699">公告:本站系统正在进行全面升级... <tr>QQ计算机技术交流群：808537055</tr></marquee>
     
     </font>
      
@@ -124,7 +124,7 @@
 <div class="intro">
 
     <p style="font-family: 方正仿宋简体;font-size: 20px;text-shadow: 0 0 10px rgb(0, 115, 255);">欢迎大家共同讨论学术技术研究方面的问题和投放及共享各类【IT资源】，以及欢迎各路萌新和大神加入我们安防团队为我们打造强悍的技术，且此工作室也提供多样各式的网络攻防零基础学习环境与软件工程资源，致力于网络安全和技术研究。组织成立于2020年,现有7名核心成员。</p>
-    <p><h3>QQ网络研究工作室：984116706</h3></p>
+    <p style="font-family: 方正仿宋简体;font-size: 20px;text-shadow: 0 0 10px rgb(0, 11, 255);"><h3>QQ网络研究工作室：984116706</h3></p>
 </div>
 
 <div class="members">
