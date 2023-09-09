@@ -6,7 +6,7 @@
         // window.alert("Test");
     </script>
     <meta charset="UTF-8">
-    <title>🌐 天帆云网络科技工作室官网</title>
+    <title>天帆云网络科技工作室官网</title>
     <link rel="icon" href="logo.ico" type="image/x-icon">
     
     <font color="red">
@@ -128,7 +128,7 @@
 </div>
 <font color="red">
      
-    <p style="font-family: 方正仿宋简体;font-size: 20px;text-shadow: 0 0 10px rgb(0, 11, 255);"><h3>QQ网络研究工作室：984116706</h3></p>
+    <p style="font-family: 方正仿宋简体;font-size: 20px;text-shadow: 0 0 10px rgb(255 , 81 ,45);"><h3>QQ网络研究工作室：984116706</h3></p>
     
 </font>
 <div class="members">
