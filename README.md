@@ -162,7 +162,7 @@
 <p style="font-family: 方正仿宋简体;font-size: 19px;text-align: center;text-shadow: 0 0 20px #00d5ff;">
 
 ◆宗旨: [  贡献  ] [  创新  ] [  坚持  ] [  进取  ] [  诚信  ] [  和谐  ] [  探索  ] [  求知  ] [  追求  ]
-
+<br><h3>QQ网络研究工作室：984116706</h3></br>
 </p>
 
 
