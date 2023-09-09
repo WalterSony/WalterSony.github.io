@@ -128,7 +128,7 @@
 </div>
 <font color="red">
      
-    <p style="font-family: 方正仿宋简体;font-size: 20px;text-shadow: 0 0 10px rgb(149, 206, 217);"><h3>移动网络技术工作室/科研QQ：984116706</h3></p>
+    <p style="font-family: 方正仿宋简体;font-size: 20px;text-shadow: 0 0 10px rgb(255 , 81 ,45);"><h3>移动网络技术工作室/科研QQ：984116706</h3></p>
     
 </font>
 <div class="members">
