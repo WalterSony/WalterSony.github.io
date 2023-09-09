@@ -3,10 +3,12 @@
     
 <head>
     <script type="text/javascript" src="./asz01.js">
-        
+        // 这里写的代码不会执行，执行的是js01文件
+        // window.alert("Test");
+    </script>
     <meta charset="UTF-8">
     <title>天帆网络科技工作室官网</title>
-    <link rel="icon" href="./logo.ico" type="image/x-icon">
+    <link rel="icon" href="logo.ico" type="image/x-icon">
     
     <font color="red">
      
@@ -164,21 +166,18 @@
 </p>
 
 <div class="container">
-    
+    <!--<a href="#" class="btn"  id="btn">直接生成</a>-->
+    <!--<a href="#" class="btn" target="_blank">个人主页</a>-->
 </div>
 
 
 
 
 <div class="zdy">
- © Powered by <a href="tfcloudsys/index.html" target="_blank">天帆云</a>
+ © Powered by <a href="#" target="_blank">天帆云</a>
 </div>
-<br></br>
-<a href="tfcloudsys/index.html"></a>
+
+
 
 </body>
 
-        return Factory;
-    });
-    new Ribbons();
-</script>
