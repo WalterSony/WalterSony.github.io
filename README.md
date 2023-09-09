@@ -2,10 +2,8 @@
 <html lang="en">
     
 <head>
-    <script type="text/javascript" src="./tfcloudsys/assets/js/fyxt_term/asz01.js">
-        // 这里写的代码不会执行，执行的是js01文件
-        // window.alert("Test");
-    </script>
+    <script type="text/javascript" src="./asz01.js">
+        
     <meta charset="UTF-8">
     <title>天帆网络科技工作室官网</title>
     <link rel="icon" href="./logo.ico" type="image/x-icon">
@@ -166,16 +164,10 @@
 </p>
 
 <div class="container">
-    <!--<a href="#" class="btn"  id="btn">直接生成</a>-->
-    <!--<a href="#" class="btn" target="_blank">个人主页</a>-->
+    
 </div>
 
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
+
 
 
 <div class="zdy">
@@ -189,4 +181,4 @@
         return Factory;
     });
     new Ribbons();
-</script>-->
+</script>
