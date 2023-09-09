@@ -123,12 +123,12 @@
     
 <div class="intro">
 
-    <p style="font-family: 方正仿宋简体;font-size: 20px;text-shadow: 0 0 10px rgb(0, 115, 255);">欢迎大家共同讨论学术技术研究方面的问题和投放及共享各类【IT资源】，以及欢迎各路萌新和大神加入我们安防团队为我们打造强悍的技术，且此工作室也提供多样各式的网络攻防零基础学习环境与软件工程资源，致力于网络安全和技术研究。组织成立于2020年,现有7名核心成员。</p>
+    <p style="font-family: 方正仿宋简体;font-size: 20px;text-shadow: 0 0 10px rgb(0, 115, 255);">欢迎各位极客朋友及其工程师们加入我们与我们共同讨论高等学术领域研究方面的问题，以及欢迎各路萌新和大神加入我们安防团队为我们打造强悍的技术，我们一直都是始终致力于计算机以及其它科学领域的研究。【组织成立于2020年,现有7名核心成员。</p>
     
 </div>
 <font color="red">
      
-    <p style="font-family: 方正仿宋简体;font-size: 20px;text-shadow: 0 0 10px rgb(255 , 81 ,45);"><h3>QQ网络研究工作室：984116706</h3></p>
+    <p style="font-family: 方正仿宋简体;font-size: 20px;text-shadow: 0 0 10px rgb(149, 206, 217);"><h3>移动网络技术工作室/科研QQ：984116706</h3></p>
     
 </font>
 <div class="members">
